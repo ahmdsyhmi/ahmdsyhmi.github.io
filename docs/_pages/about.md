@@ -24,7 +24,7 @@ With 7+ years of experience across health supplements, life science and technica
 - **CRM & Sales Enablement:** Streamlined custom lead management workflows using Notion — integrated with task follow-ups, lead status tracking, and post-event handover kits.
 
 ### 🎯 Recent Wins:
-- Drove 80+ qualified leads on customer demo requests through an integrated event campaign  
+- Drove 80+ qualified leads on customer technical equipment demo requests through an integrated event campaign  
 - Revamped FC-BIOS’ entire website and SEO — landing 50+ top-3 keywords  
 - Enabled cross-department alignment with automated post-event lead workflows  
 - Built digital sales toolkits that are now 90% of reps’ go-to assets
