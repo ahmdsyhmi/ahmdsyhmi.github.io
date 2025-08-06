@@ -6,7 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# 🚀 Projects
 A curated showcase of marketing, branding, and automation initiatives that I’ve directed, supervised, and executed end-to-end. From concept to launch, I’ve led cross-functional teams, managed budgets, optimized resources, and ensured seamless execution for campaigns, events, and product branding — all while aligning with business objectives and measurable KPIs.
 
 ---
