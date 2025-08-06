@@ -16,8 +16,9 @@ At **FC-BIOS**, I lead the marketing function end-to-end:
 - **Automation:** Built CRM workflows (Zapier → NetSuite) to unify leads from WhatsApp, website forms, and email into a single pipeline  
 - **Web & SEO:** Directed website revamps using UX and SEO best practices — 50+ high-value keywords ranked Top 3 on Google  
 - **Sales Enablement:** Standardized digital sales kits and collateral systems now used in 90% of sales touchpoints  
-- **Events & Booth Design:** Directed booth design, placement strategy, and full exhibition logistics — exceeding lead targets by 30%  
-- **Content Compliance:** Oversaw technical and marketing content for regulated product lines  
+- **Events Management & Booth Design:** Directed booth design, placement strategy, and full exhibition logistics — exceeding lead targets by 30%
+- **Cross-Team Coordination:** Aligned Marketing, Sales, and Technical Support under shared targets and workflows — ensuring consistent execution across all initiatives
+- **Content Compliance:** Oversaw technical and marketing content to adhere with brand value proposition  
 
 At **GN Neutriceuticals**, I managed both **marketing execution and product branding**:
 - Designed flagship product packaging and labels aligned with **MOH & NPRA compliance**  
@@ -37,8 +38,8 @@ At **GN Neutriceuticals**, I managed both **marketing execution and product bran
 
 ### 🛠 Tools I Actually Use
 - **SEO & Analytics:** Ubersuggest, Ahrefs, Google Analytics  
-- **Automation:** ChatGPT, Claude AI, Notion Integration, Google Sheets Scripts  
-- **Campaign Platforms:** HTML EDMs, Shopify, LinkedIn Ads, Meta Ads  
+- **Automation:** ChatGPT, Claude AI, Zapier, Notion Integration, Google Sheets Scripts  
+- **Campaign Platforms:** HTML EDMs, Shopify, LinkedIn Ads, Meta Ads, Social Media  
 - **CRM & Sales Enablement:** Custom Notion-based lead tracking linked to event follow-up kits and NetSuite CRM  
 
 ---
