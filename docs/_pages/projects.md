@@ -138,8 +138,25 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Reduced dependency on printed assets</li>
     <li>Accelerated client response times</li>
   </ul>
-  <a href="https://www.notion.so/FCB-Sales-Kit-2209893f84bd80428a90c09666bcbd27?source=copy_link" class="btn--primary" target="_blank">📂 View Full Sales Kit in Notion</a>
+  <a href="https://www.notion.so/FCB-Sales-Kit-2209893f84bd80428a90c09666bcbd27?source=copy_link" 
+     class="btn--primary" target="_blank">📂 View Full Sales Kit in Notion</a>
 </div>
+
+<style>
+.btn--primary {
+  background-color: #007acc;
+  color: white !important;
+  padding: 10px 18px;
+  text-decoration: none;
+  border-radius: 6px;
+  display: inline-block;
+  margin-top: 12px;
+  font-weight: bold;
+}
+.btn--primary:hover {
+  background-color: #005fa3;
+}
+</style>
 
 <div class="card">
   <h3>📦 Marketing & Technical Product Branding – GN Neutriceuticals</h3>
