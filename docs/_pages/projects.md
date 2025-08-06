@@ -13,7 +13,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 ## 🎯 Campaigns & Automation
 <div class="cards">
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🔧 Digital Campaign Automation & Lead Generation</h3>
   <p>Integrated AI tools (ChatGPT, Ubersuggest, Ahrefs) into campaign workflows to streamline strategy, content creation, and performance tracking.</p>
   <ul>
@@ -23,7 +23,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
   </ul>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>📢 Integrated Marketing Campaigns</h3>
   <p>Planned, executed, and optimized multi-channel campaigns on products, events and promotions across email, LinkedIn, webinars, and events.</p>
   <ul>
@@ -33,10 +33,12 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Improved product visibility and technical positioning through targeted messaging</li>
     <li>+10% customer-organized demos and technical talks gained from campaigns</li>
   </ul>
-  <img src="/assets/resources/ECOFRIZ Campaign.jpg" alt="ECOFRIZ Campaign" style="width:500px; margin-top:10px;">
+  <a href="/assets/resources/ECOFRIZ Campaign.jpg" data-lightbox="projects" data-title="ECOFRIZ Campaign">
+    <img src="/assets/resources/ECOFRIZ Campaign.jpg" alt="ECOFRIZ Campaign" class="project-thumb">
+  </a>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>📨 Responsive Email Templates</h3>
   <p>Created custom HTML email templates for announcements, webinars, and lead nurturing across multiple devices.</p>
   <ul>
@@ -44,10 +46,12 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Increased open rate and cross-device consistency</li>
     <li>Enabled non-technical staff to run independent email campaigns</li>
   </ul>
-  <img src="/assets/resources/HTML Improved - EDM.jpg" alt="EDM - Automated HTML" style="width:500px; margin-top:10px;">
+  <a href="/assets/resources/HTML Improved - EDM.jpg" data-lightbox="projects" data-title="HTML EDM">
+    <img src="/assets/resources/HTML Improved - EDM.jpg" alt="EDM - Automated HTML" class="project-thumb">
+  </a>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🎯 Post-Event Lead Capture System</h3>
   <p>Created a feedback-to-lead system for webinars and workshops using Google Forms + Apps Script.</p>
   <ul>
@@ -57,7 +61,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
   </ul>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🧠 Cross-Departmental Lead Strategy</h3>
   <p>Built and deployed a segmented lead generation approach aligning Sales, Marketing, and Tech Support.</p>
   <ul>
@@ -67,7 +71,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
   </ul>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🔄 CRM Integration via Zapier</h3>
   <p>Automated lead capture across all enquiry touchpoints (WhatsApp, website forms, email) into NetSuite CRM for instant processing.</p>
   <ul>
@@ -85,7 +89,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 ## 🏢 Events & Exhibitions
 <div class="cards">
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🏢 Exhibition Booth Design & Trade Show Execution</h3>
   <p><strong>Directed and supervised full booth design and execution, as well as overall exhibition planning.</strong> Mobilized 20+ cross-department team members from Sales, Marketing, and Technical Support to deliver a successful event presence.</p>
   <ul>
@@ -95,8 +99,12 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Led real-time setup and operational coordination throughout the event</li>
     <li>Achieved 200 qualified leads (target: 150), exceeding expectations</li>
   </ul>
-  <img src="/assets/resources/Booth Design - LabAsia 2025.jpg" alt="Booth Design - LabAsia 2025" style="width:500px; margin-top:10px;">
-  <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:500px; margin-top:10px;">
+  <a href="/assets/resources/Booth Design - LabAsia 2025.jpg" data-lightbox="projects" data-title="Booth Design - LabAsia 2025">
+    <img src="/assets/resources/Booth Design - LabAsia 2025.jpg" alt="Booth Design - LabAsia 2025" class="project-thumb">
+  </a>
+  <a href="/assets/resources/LabAsia Booth.jpg" data-lightbox="projects" data-title="LabAsia Booth">
+    <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" class="project-thumb">
+  </a>
 </div>
 
 </div>
@@ -106,7 +114,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 ## 🎨 Branding & Creative
 <div class="cards">
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🌐 Website Revamp with UI/UX & SEO</h3>
   <p>Led full website redesign using UX best practices and SEO-enhanced copy to elevate brand credibility and discoverability.</p>
   <ul>
@@ -114,11 +122,15 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>50 high-priority keywords ranked Top 3 on Google</li>
     <li>Improved first-time visitor conversion and reduced bounce rate</li>
   </ul>
-  <img src="/assets/resources/SEO Ranking.jpg" alt="SEO Keyword Ranks" style="width:500px; margin-top:9px;">
-  <img src="/assets/resources/Ubersuggest Rank Tracking.jpg" alt="SEO Keyword Ranks" style="width:500px; margin-top:9px;">
+  <a href="/assets/resources/SEO Ranking.jpg" data-lightbox="projects" data-title="SEO Rankings">
+    <img src="/assets/resources/SEO Ranking.jpg" alt="SEO Keyword Ranks" class="project-thumb">
+  </a>
+  <a href="/assets/resources/Ubersuggest Rank Tracking.jpg" data-lightbox="projects" data-title="Ubersuggest Rankings">
+    <img src="/assets/resources/Ubersuggest Rank Tracking.jpg" alt="Ubersuggest Rankings" class="project-thumb">
+  </a>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>🧰 Digitized Sales Collateral System</h3>
   <p>Standardized 100+ marketing materials into a digital library accessible to Sales and Tech Support.</p>
   <ul>
@@ -126,13 +138,15 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Reduced dependency on printed assets</li>
     <li>Accelerated client response times</li>
   </ul>
-  <a href="https://www.notion.so/FCB-Sales-Kit-2209893f84bd80428a90c09666bcbd27?source=copy_link" class="btn btn--primary">View Full Sales Kit in Notion</a>
+  <a href="https://www.notion.so/FCB-Sales-Kit-2209893f84bd80428a90c09666bcbd27?source=copy_link" class="btn--primary" target="_blank">📂 View Full Sales Kit in Notion</a>
 </div>
 
-<div class="card" style="margin-bottom:30px;">
+<div class="card">
   <h3>📦 Marketing & Technical Product Branding – GN Neutriceuticals</h3>
   <p>Led the design and development of product packaging and technical documentation to meet MOH and NPRA compliance; designed ~20 probiotic technical sheets.</p>
-  <img src="/assets/resources/Pronex Chewable Tablet.jpg" alt="Pronex Chewable - Design" style="width:400px; margin-top:10px;">
+  <a href="/assets/resources/Pronex Chewable Tablet.jpg" data-lightbox="projects" data-title="Product Label - Chewable">
+    <img src="/assets/resources/Pronex Chewable Tablet.jpg" alt="Pronex Chewable - Design" class="project-thumb">
+  </a>
 </div>
 
 </div>
