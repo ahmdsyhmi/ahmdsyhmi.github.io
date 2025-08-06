@@ -7,40 +7,51 @@ classes: wide
 ---
 
 <!-- HERO SECTION -->
-<div style="background: linear-gradient(to right, #007acc, #004e8a); padding:50px 20px; color:white; text-align:center; border-radius:8px; margin-bottom:40px;">
-  <h1 style="margin-bottom:10px;">Ahmad Syahmi</h1>
-  <p style="font-size:18px; max-width:800px; margin:0 auto;">
-    From nationwide roadshows to AI-driven CRM workflows — I design marketing systems that scale, convert, and stick.
-  </p>
-  <div style="margin-top:20px;">
-    <a href="/projects/" class="btn btn--primary" style="background:#005fa3; padding:10px 20px; border-radius:4px; text-decoration:none; color:white; margin:5px;">🚀 Explore Projects</a>
-    <a href="/resources/" class="btn btn--primary" style="background:#ff9800; padding:10px 20px; border-radius:4px; text-decoration:none; color:white; margin:5px;">📂 View My Work</a>
+<div style="
+  background: url('/assets/resources/LabAsia Booth.jpg') center/cover no-repeat;
+  border-radius: 8px;
+  padding: 50px;
+  color: white;
+  text-align: center;
+  position: relative;
+">
+  <div style="background: rgba(0,0,0,0.55); padding: 40px; border-radius: 8px;">
+    <h1 style="font-size: 2.5em; font-weight: bold;">Ahmad Syahmi</h1>
+    <p style="font-size: 1.2em; max-width: 700px; margin: 0 auto;">
+      From nationwide roadshows to AI-driven CRM workflows — I design marketing systems that scale, convert, and stick.
+    </p>
+    <div style="margin-top: 20px;">
+      <a href="/projects/" class="btn btn--primary" style="margin-right: 10px;">🚀 Explore Projects</a>
+      <a href="/resources/" class="btn btn--primary">📂 View My Work</a>
+    </div>
   </div>
 </div>
 
-<!-- INTRO TEXT -->
-<p style="text-align:center; font-size:16px; margin-bottom:40px;">
-  ⚡ Browse selected campaigns, lead generation systems, and creative work — all built to perform.
+<p style="text-align:center; margin-top:20px;">
+  ⚡ Browse selected campaigns, landing page designs, and creative work — all built to perform.
 </p>
 
-<!-- PROJECT PREVIEW TILES -->
-<div class="cards" style="display:flex; justify-content:center; flex-wrap:wrap; gap:20px; margin-top:20px;">
+<!-- PREVIEW GRID -->
+<div class="cards" style="display:grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap:20px; margin-top:20px;">
 
-  <div class="card" style="text-align:center; max-width:320px;">
-    <h3 style="margin-bottom:10px;">📈 Lead Generation Automation</h3>
-    <a href="/projects/#campaigns--automation">
-      <img src="/assets/resources/HTML Improved - EDM.jpg" alt="Lead Automation" style="width:100%; border-radius:5px; margin-bottom:10px;">
+  <!-- Website Revamp -->
+  <div class="card" style="text-align:center;">
+    <h3 style="margin-bottom:10px;">🌐 Website Revamp & Landing Pages</h3>
+    <a href="/projects/#branding--creative">
+      <img src="/assets/resources/ECOFRIZ Landing Page.jpg" alt="Website Revamp" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
   </div>
 
-  <div class="card" style="text-align:center; max-width:320px;">
+  <!-- Sales Kit -->
+  <div class="card" style="text-align:center;">
     <h3 style="margin-bottom:10px;">🧰 Digitized Sales Kit</h3>
     <a href="/projects/#branding--creative">
       <img src="/assets/resources/Sales Kit Cover - Notion.png" alt="Sales Kit" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
   </div>
 
-  <div class="card" style="text-align:center; max-width:320px;">
+  <!-- LabAsia Booth -->
+  <div class="card" style="text-align:center;">
     <h3 style="margin-bottom:10px;">🏢 Tradeshow Execution</h3>
     <a href="/projects/#events--exhibitions">
       <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:100%; border-radius:5px; margin-bottom:10px;">
