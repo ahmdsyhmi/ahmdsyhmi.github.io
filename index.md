@@ -52,7 +52,7 @@ classes: wide
 
   <!-- LabAsia Booth -->
   <div class="card" style="text-align:center;">
-    <h3 style="margin-bottom:10px;">🏢 LabAsia Tradeshow</h3>
+    <h3 style="margin-bottom:10px;">🏢 Tradeshow Execution</h3>
     <a href="/projects/#events--exhibitions">
       <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
