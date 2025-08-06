@@ -1,27 +1,14 @@
 ---
-layout: home
-title: "Syahmi"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/resources/IMG_1470.JPG
-  actions:
-    - label: "View Projects"
-      url: "/projects/"
-    - label: "Explore Resources"
-      url: "/resources/"
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
+classes: wide
 ---
-
-### 🧠 Marketing Team Lead  
-**Driving Campaigns, Automation & Branding from Strategy to Execution**
-
-I bring 7+ years of hands-on experience leading integrated marketing initiatives — from website revamps, SEO, and campaign automation to product launches and event planning.  
-Every outcome on this site is a result of team-led, strategy-backed execution that I’ve directly overseen.
-
 
 <!-- HERO SECTION -->
 <div style="
-  background: url('/assets/resources/Syahmi LabAsia.jpg') center/cover no-repeat;
+  background: url('/assets/resources/IMG_1470.JPG') center/cover no-repeat;
   border-radius: 8px;
   padding: 50px;
   color: white;
@@ -51,7 +38,7 @@ Every outcome on this site is a result of team-led, strategy-backed execution th
   <div class="card" style="text-align:center;">
     <h3 style="margin-bottom:10px;">🌐 Website Management</h3>
     <a href="/projects/#branding--creative">
-      <img src="/assets/resources/ECOFRIZ Landing Page.jpg" alt="Website Revamp" style="width:100%; border-radius:5px; margin-bottom:10px;">
+      <img src="/assets/resources/ECOFRIZ Landing Page - Cropped.jpg" alt="Website Revamp" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
   </div>
 
@@ -65,7 +52,7 @@ Every outcome on this site is a result of team-led, strategy-backed execution th
 
   <!-- LabAsia Booth -->
   <div class="card" style="text-align:center;">
-    <h3 style="margin-bottom:10px;">🏢 Tradeshow Execution</h3>
+    <h3 style="margin-bottom:10px;">🏢 LabAsia Tradeshow</h3>
     <a href="/projects/#events--exhibitions">
       <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
