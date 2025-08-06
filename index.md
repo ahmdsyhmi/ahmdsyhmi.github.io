@@ -16,7 +16,7 @@ classes: wide
   position: relative;
 ">
   <div style="background: rgba(0,0,0,0.55); padding: 40px; border-radius: 8px;">
-    <h1 style="font-size: 2.5em; font-weight: bold;">Ahmad Syahmi</h1>
+    <h1 style="font-size: 2.5em; font-weight: bold;">Syahmi - Marketing Team Lead</h1>
     <p style="font-size: 1.2em; max-width: 700px; margin: 0 auto;">
       From nationwide roadshows to AI-driven CRM workflows — I design marketing systems that scale, convert, and stick.
     </p>
