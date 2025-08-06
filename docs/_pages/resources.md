@@ -148,10 +148,4 @@ An archive of visuals, documents, and strategy-backed outputs that supported eve
   <p>Standardized the formatting, fonts and corporate colours for the company, as a reference guide for all corporate materials.</p>
   <img src="/assets/resources/A-Core Style Guide_Rev02_2025 thumbnail.jpg" alt="Company Brand Guideline" style="width:300px; margin-bottom:10px;">
   <a href="/assets/resources/A-Core Style Guide_Rev02_2025.pdf" target="_blank">
-</div>
 
----
-
-
-
-</div>
