@@ -17,7 +17,7 @@ An archive of visuals, documents, and strategy-backed outputs that supported eve
   <h3>ECOFRIZ Campaign</h3>
   <p>End-to-end campaign I ran for biomedical freezer promo — resulted in strong visibility and product enquiries via LinkedIn, email, and webinars.</p>
   <img src="/assets/resources/ECOFRIZ Campaign.jpg" alt="ECOFRIZ Campaign" style="width:300px;">
-  <img src="/assets/resources/ECOFRIZ Campaign#2.jpg" alt="ECOFRIZ Campaign 2" style="width:300px; margin-top:10px;">
+  <img src="/assets/resources/ECOFRIZ Campaign-2.jpg" alt="ECOFRIZ Campaign 2" style="width:300px; margin-top:10px;">
 </div>
 
 <div class="card">
@@ -79,7 +79,7 @@ An archive of visuals, documents, and strategy-backed outputs that supported eve
   <p>50+ priority keywords ranked Top 3 on Google, increasing organic traffic and authority.</p>
   <img src="/assets/resources/SEO Ranking.jpg" alt="SEO Rank" style="width:300px;">
   <img src="/assets/resources/Ubersuggest Rank Tracking.jpg" alt="Ubersuggest Rankings" style="width:300px; margin-top:10px;">
-  <img src="/assets/resources/Ubersuggest Rankings #2.jpg" alt="Ubersuggest Rankings 2" style="width:300px; margin-top:10px;">
+  <img src="/assets/resources/Ubersuggest Rankings-2.jpg" alt="Ubersuggest Rankings 2" style="width:300px; margin-top:10px;">
 </div>
 
 </div>
