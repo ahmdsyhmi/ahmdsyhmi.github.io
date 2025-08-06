@@ -131,7 +131,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 
 <div class="card" style="margin-bottom:30px;">
   <h3>📦 Marketing & Technical Product Branding – GN Neutriceuticals</h3>
-  <p>Led the design and development of product packaging and technical documentation to meet MOH and NPRA compliance; designed ~20 probiotic brochures.</p>
+  <p>Led the design and development of product packaging and technical documentation to meet MOH and NPRA compliance; designed ~20 probiotic technical sheets.</p>
   <img src="/assets/resources/Pronex Chewable Tablet.jpg" alt="Pronex Chewable - Design" style="width:400px; margin-top:10px;">
 </div>
 
