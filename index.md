@@ -1,19 +1,50 @@
 ---
-layout: splash
-title: "Ahmad Syahmi"
-subtitle: "Digital Marketer | Events & Automation | Shopify & CRM Workflows"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.3"
-  overlay_image: /assets/images/header.jpg
-  actions:
-    - label: "View Projects"
-      url: "/projects/"
-    - label: "About Me"
-      url: "/about/"
+layout: single
+title: "Home"
+permalink: /
+author_profile: true
+classes: wide
 ---
 
-Welcome to my digital portfolio.
+<!-- HERO SECTION -->
+<div style="background: linear-gradient(to right, #007acc, #004e8a); padding:50px 20px; color:white; text-align:center; border-radius:8px; margin-bottom:40px;">
+  <h1 style="margin-bottom:10px;">Ahmad Syahmi</h1>
+  <p style="font-size:18px; max-width:800px; margin:0 auto;">
+    From nationwide roadshows to AI-driven CRM workflows — I design marketing systems that scale, convert, and stick.
+  </p>
+  <div style="margin-top:20px;">
+    <a href="/projects/" class="btn btn--primary" style="margin:5px;">🚀 Explore Projects</a>
+    <a href="/resources/" class="btn btn--primary" style="margin:5px;">📂 View My Work</a>
+  </div>
+</div>
 
-I specialize in running high-impact marketing campaigns, automating workflows, and building brand strategies that convert.  
-From medical roadshows to AI-driven follow-up systems — I craft results, not just reach.
+<!-- INTRO TEXT -->
+<p style="text-align:center; font-size:16px; margin-bottom:40px;">
+  ⚡ Browse selected campaigns, lead generation systems, and creative work — all built to perform.
+</p>
+
+<!-- PROJECT PREVIEW TILES -->
+<div class="cards" style="margin-top:20px;">
+
+  <div class="card" style="text-align:center;">
+    <h3 style="margin-bottom:10px;">📈 Lead Generation Automation</h3>
+    <a href="/projects/#campaigns--automation">
+      <img src="/assets/resources/HTML Improved - EDM.jpg" alt="Lead Automation" style="width:100%; max-width:300px; border-radius:5px; margin:auto;">
+    </a>
+  </div>
+
+  <div class="card" style="text-align:center;">
+    <h3 style="margin-bottom:10px;">🧰 Digitized Sales Kit</h3>
+    <a href="/projects/#branding--creative">
+      <img src="/assets/resources/Sales Kit Cover - Notion.png" alt="Sales Kit" style="width:100%; max-width:300px; border-radius:5px; margin:auto;">
+    </a>
+  </div>
+
+  <div class="card" style="text-align:center;">
+    <h3 style="margin-bottom:10px;">🏢 LabAsia Tradeshow</h3>
+    <a href="/projects/#events--exhibitions">
+      <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:100%; max-width:300px; border-radius:5px; margin:auto;">
+    </a>
+  </div>
+
+</div>
