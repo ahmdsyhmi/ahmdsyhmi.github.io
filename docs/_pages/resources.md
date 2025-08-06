@@ -6,42 +6,152 @@ author_profile: true
 classes: wide
 ---
 
+An archive of visuals, documents, and strategy-backed outputs that supported every execution detailed in [Projects](/projects/). Each item reflects real-world outcomes: from lead conversions to SEO visibility, campaign traction, and operational efficiency.
+
+---
+
+## 📢 Campaign Materials
 <div class="cards">
 
-<!-- Brand Guidelines -->
 <div class="card">
-  <h3>🎨 Brand Guidelines</h3>
-  <p>A-Core Style Guide for consistent branding.</p>
-  <a href="/assets/resources/A-Core_Style_Guide_Rev02_2023.pptx" class="btn btn--primary">View / Download</a>
+  <h3>ECOFRIZ Campaign</h3>
+  <p>End-to-end campaign I ran for biomedical freezer promo — resulted in strong visibility and product enquiries via LinkedIn, email, and webinars.</p>
+  <img src="/assets/resources/ECOFRIZ Campaign.jpg" alt="ECOFRIZ Campaign" style="width:300px;">
+  <img src="/assets/resources/ECOFRIZ Campaign#2.jpg" alt="ECOFRIZ Campaign 2" style="width:300px; margin-top:10px;">
 </div>
 
-<!-- SEO Rankings -->
 <div class="card">
-  <h3>📊 SEO Reports</h3>
-  <p>Top ranking keywords and site performance.</p>
-  <img src="/assets/resources/Ubersuggest_Rankings.jpg" alt="SEO Rankings Screenshot" style="max-width:100%;">
+  <h3>Microlit Promo</h3>
+  <p>One of the best-performing awareness flyer for our pipette range — contributed to consistent lead flow in a year.</p>
+  <a href="/assets/resources/Microlit Promo Flyer_validity 31 December 2025.pdf" target="_blank">
+    <img src="/assets/resources/Microlit Promo 2025 Thumbnail.jpg" alt="Microlit Promo" style="width:300px;">
+  </a>
 </div>
 
-<!-- Campaign Creatives -->
 <div class="card">
-  <h3>📢 Campaign Creatives</h3>
-  <p>ECOFRIZ Biomedical Freezer Campaign assets.</p>
-  <img src="/assets/resources/ECOFRIZ_Campaign.jpg" alt="Campaign Creative 1" style="max-width:100%; margin-bottom:10px;">
-  <img src="/assets/resources/ECOFRIZ_Campaign2.jpg" alt="Campaign Creative 2" style="max-width:100%;">
+  <h3>PROGNOSIS Launch Promo</h3>
+  <p>New product launch campaign with direct redemption offers. Played a key role in sales pipeline boost.</p>
+  <a href="/assets/resources/PROGNOSIS Launch Promo_2025.pdf" target="_blank">
+    <img src="/assets/resources/PROGNOSIS Launch Promo_2025 Thumbnail.jpg" alt="PROGNOSIS Promo" style="width:300px;">
+  </a>
 </div>
 
-<!-- Email Marketing -->
-<div class="card">
-  <h3>📧 Email Marketing</h3>
-  <p>Responsive HTML EDM design sample.</p>
-  <img src="/assets/resources/HTML_Improved_EDM.jpg" alt="HTML EDM Screenshot" style="max-width:100%;">
 </div>
 
-<!-- Event Reports and Updates -->
+---
+
+## 🌐 Landing Pages
+<div class="cards">
+
 <div class="card">
-  <h3>🧪 Event Reports and Updates</h3>
-  <p>Workshop summary and follow‑up materials.</p>
-  <a href="/assets/resources/Microplate_Reader_Workshop_Summary.pdf" class="btn btn--primary">View PDF</a>
+  <h3>ECOFRIZ Biomedical Freezer</h3>
+  <p>SEO-optimized product landing page with custom technical writeup and CTA design.</p>
+  <a href="https://www.fcbios.com.my/pages/ecofriz" target="_blank">
+    <img src="/assets/resources/ECOFRIZ Landing Page.jpg" alt="ECOFRIZ Landing Page" style="width:300px;">
+  </a>
 </div>
+
+<div class="card">
+  <h3>TOMY Autoclave SX-Series</h3>
+  <p>Content and structure crafted to align with decision-making in the lab procurement journey.</p>
+  <a href="https://www.fcbios.com.my/pages/tomy-autoclave-sx-series" target="_blank">
+    <img src="/assets/resources/Autoclave Landing Page.jpg" alt="Autoclave Landing Page" style="width:300px;">
+  </a>
+</div>
+
+<div class="card">
+  <h3>Gyrozen Centrifuges</h3>
+  <p>Performance-focused layout and copy to highlight product differentiation.</p>
+  <a href="https://www.fcbios.com.my/pages/centrifuges" target="_blank">
+    <img src="/assets/resources/Centrifuge Landing Page.jpg" alt="Centrifuge Landing Page" style="width:300px;">
+  </a>
+</div>
+
+</div>
+
+---
+
+## 📊 SEO & Rankings
+<div class="cards">
+
+<div class="card">
+  <h3>Keyword Rankings</h3>
+  <p>50+ priority keywords ranked Top 3 on Google, increasing organic traffic and authority.</p>
+  <img src="/assets/resources/SEO Ranking.jpg" alt="SEO Rank" style="width:300px;">
+  <img src="/assets/resources/Ubersuggest Rank Tracking.jpg" alt="Ubersuggest Rankings" style="width:300px; margin-top:10px;">
+  <img src="/assets/resources/Ubersuggest Rankings #2.jpg" alt="Ubersuggest Rankings 2" style="width:300px; margin-top:10px;">
+</div>
+
+</div>
+
+---
+
+## 🏢 Events & Exhibitions
+<div class="cards">
+
+<div class="card">
+  <h3>LabAsia 2025 Booth Design</h3>
+  <p>Directed & supervised full booth execution — design, budgeting, and lead management. Surpassed lead target (200 vs 150 planned).</p>
+  <img src="/assets/resources/Booth Design - LabAsia 2025.jpg" alt="Booth Design" style="width:300px;">
+  <img src="/assets/resources/LabAsia Booth.jpg" alt="LabAsia Booth" style="width:300px; margin-top:10px;">
+</div>
+
+<div class="card">
+  <h3>Marketing Event Report & Planning</h3>
+  <p>A summary of every marketing event, showcasing the highlights, lead gains and successful outcome. With target metrics for future plannings.</p>
+  <a href="/assets/resources/Microplate Reader Workshop - Summary.pdf" target="_blank">
+    <img src="/assets/resources/Microplate Reader Workshop - Thumbnail.jpg" alt="Microplate Reader Workshop" style="width:300px;">
+  </a>
+</div>
+
+</div>
+
+---
+
+## 🧰 Tools & Systems
+<div class="cards">
+
+<div class="card">
+  <h3>Digitized Sales Collateral</h3>
+  <p>100+ sales kits standardized into Notion — enabled cross-departmental usage and fast turnaround.</p>
+  <a href="https://www.notion.so/FCB-Sales-Kit-2209893f84bd80428a90c09666bcbd27" target="_blank">
+    <img src="/assets/resources/Sales Kit Cover - Notion.png" alt="Sales Kit" style="width:300px;">
+  </a>
+</div>
+
+<div class="card">
+  <h3>Zapier Integration Flow</h3>
+  <p>Connected Google Forms → NetSuite CRM to auto-capture leads from WhatsApp, Shopify, and website touchpoints.</p>
+</div>
+
+</div>
+
+---
+
+## 🎨 Branding & Creative
+<div class="cards">
+
+<div class="card">
+  <h3>Product Labels & Regulatory Docs</h3>
+  <p>Led flagship product branding — including label design and compliance-ready technical documents (MOH, NPRA).</p>
+  <img src="/assets/resources/Pronex Chewable Tablet.jpg" alt="Pronex Chewable" style="width:300px; margin-bottom:10px;">
+  <a href="/assets/resources/ProNex Gummy Artwork D2.pdf" target="_blank">
+    <img src="/assets/resources/ProNex Gummy Artwork D2 Thumbnail.png" alt="Pronex Gummy" style="width:300px; margin-bottom:10px;">
+  </a>
+  <a href="/assets/resources/Product Specs - LACTOMAX.pdf" target="_blank">
+    <img src="/assets/resources/Product Specs - LACTOMAX Thumbnail.jpg" alt="Lactomax Specs" style="width:300px;">
+  </a>
+</div>
+
+<div class="card">
+  <h3>Branding Guidelines</h3>
+  <p>Standardized the formatting, fonts and corporate colours for the company, as a reference guide for all corporate materials.</p>
+  <img src="/assets/resources/A-Core Style Guide_Rev02_2025 thumbnail.jpg" alt="Company Brand Guideline" style="width:300px; margin-bottom:10px;">
+  <a href="/assets/resources/A-Core Style Guide_Rev02_2025.pdf" target="_blank">
+</div>
+
+---
+
+
 
 </div>
