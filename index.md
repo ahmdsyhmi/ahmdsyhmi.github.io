@@ -1,10 +1,23 @@
 ---
-layout: single
-title: "Home"
-permalink: /
-author_profile: true
-classes: wide
+layout: home
+title: "Syahmi"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.2"
+  overlay_image: /assets/resources/IMG_1470.JPG
+  actions:
+    - label: "View Projects"
+      url: "/projects/"
+    - label: "Explore Resources"
+      url: "/resources/"
 ---
+
+### 🧠 Marketing Team Lead  
+**Driving Campaigns, Automation & Branding from Strategy to Execution**
+
+I bring 7+ years of hands-on experience leading integrated marketing initiatives — from website revamps, SEO, and campaign automation to product launches and event planning.  
+Every outcome on this site is a result of team-led, strategy-backed execution that I’ve directly overseen.
+
 
 <!-- HERO SECTION -->
 <div style="
