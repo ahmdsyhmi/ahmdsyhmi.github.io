@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "🚀 Projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 classes: wide
@@ -69,13 +69,15 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 
 <div class="card" style="margin-bottom:30px;">
   <h3>🔄 CRM Integration via Zapier</h3>
-  <p>Designed and deployed an automation system connecting WhatsApp, website, and email enquiry channels into NetSuite CRM in real-time. Eliminated manual entry and reduced lead response delays.</p>
+  <p>Automated lead capture across all enquiry touchpoints (WhatsApp, website forms, email) into NetSuite CRM for instant processing.</p>
   <ul>
-    <li>Centralized all incoming leads from multiple platforms into a single CRM</li>
-    <li>Reduced lead response time from ~24 hours to under 2 hours</li>
-    <li>Improved lead tracking accuracy by removing manual data errors</li>
-    <li>Enabled sales team to prioritize hot leads with instant notifications</li>
+    <li>Built Zapier workflows to standardize incoming lead data into NetSuite Leads module</li>
+    <li>Reduced manual data entry time to near zero</li>
+    <li>Improved lead assignment speed, enabling faster sales follow-up</li>
+    <li>Created trigger-based alerts for priority enquiries</li>
   </ul>
+</div>
+
 </div>
 
 ---
