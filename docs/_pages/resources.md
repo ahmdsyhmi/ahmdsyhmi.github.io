@@ -98,7 +98,7 @@ An archive of visuals, documents, and strategy-backed outputs that supported eve
 
 <div class="card">
   <h3>Marketing Event Report & Planning</h3>
-  <p>A summary of every marketing event, showcasing the highlights, lead gains and successful outcome. With target metrics for future plannings.</p>
+  <p>A summary of every marketing event, showcasing the highlights, lead gains and successful outcome. With milestones for future plannings.</p>
   <a href="/assets/resources/Microplate Reader Workshop - Summary.pdf" target="_blank">
     <img src="/assets/resources/Microplate Reader Workshop - Thumbnail.jpg" alt="Microplate Reader Workshop" style="width:300px;">
   </a>
