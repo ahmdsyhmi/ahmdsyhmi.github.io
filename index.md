@@ -36,7 +36,7 @@ classes: wide
 
   <!-- Website Revamp -->
   <div class="card" style="text-align:center;">
-    <h3 style="margin-bottom:10px;">🌐 Website Landing Pages</h3>
+    <h3 style="margin-bottom:10px;">🌐 Website Management</h3>
     <a href="/projects/#branding--creative">
       <img src="/assets/resources/ECOFRIZ Landing Page.jpg" alt="Website Revamp" style="width:100%; border-radius:5px; margin-bottom:10px;">
     </a>
