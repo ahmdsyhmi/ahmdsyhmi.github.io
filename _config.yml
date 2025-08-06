@@ -15,7 +15,7 @@ repository: "ahmdsyhmi/ahmdsyhmi.github.io"
 # Author Settings
 author:
   name: "Ahmad Syahmi"
-  avatar: "/assets/images/bio-photo.jpg" # optional, update this if you have one
+  avatar: assets/images/image.jpg
   bio: "I build campaigns that automate, educate, and convert. From digital events to AI workflows, I turn marketing into momentum."
   location: "Malaysia"
   email: "syahmi2695@email.com"
