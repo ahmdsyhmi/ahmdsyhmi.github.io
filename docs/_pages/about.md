@@ -5,7 +5,7 @@ permalink: /about/
 author_profile: true
 ---
 
-## 👋 Hi, I'm Syahmi, a **Marketing Team Lead** with 7+ years’ experience of building marketing systems that *don’t just look good — they work hard*.
+## 👋 Hi, I'm Syahmi, a **Marketing Team Lead** with 6+ years’ experience of building marketing systems that *don’t just look good — they work hard*.
 
 ---
 
