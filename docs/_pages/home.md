@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Syahmi – Digital Marketing Portfolio & AI Projects"
+title: "Syahmi – Digital Marketing Portfolio"
 excerpt: "Digital marketer turning AI + automation into results — campaigns, dashboards, and workflows that convert."
 permalink: /
 header:
