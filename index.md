@@ -1,9 +1,14 @@
 ---
 layout: single
-title: "Home"
+title: "Syahmi – Digital Marketing Portfolio & Projects"
+description: "Showcasing my work in digital marketing, AI-driven campaigns, automation workflows, and event strategy."
+excerpt: "Showcasing my work in digital marketing, AI-driven campaigns, automation workflows, and event strategy."
 permalink: /
 author_profile: true
 classes: wide
+show_title: false
+header:
+  og_image: https://ahmdsyhmi.github.io/assets/icon.png
 ---
 
 <!-- HERO SECTION -->
