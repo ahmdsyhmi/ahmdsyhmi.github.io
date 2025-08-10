@@ -1,21 +1,33 @@
+# =========================
 # Theme Settings
+# =========================
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
+# =========================
 # Site Settings
+# =========================
 locale: "en-US"
-title: "Ahmad Syahmi"
-title_separator: "-"
+title: "Syahmi – Digital Marketing Portfolio & AI Projects"
+title_separator: "|"
 name: "Ahmad Syahmi"
-description: "Digital Marketer | Events & Automation | Shopify & CRM Workflows"
-url: "https://ahmdsyhmi.github.io"
-baseurl: ""
+description: "Showcasing work in digital marketing, AI-driven campaigns, automation, and event strategy."
+url: "https://ahmdsyhmi.github.io"   # no trailing slash
+baseurl: ""                          # leave blank for user.github.io root
 repository: "ahmdsyhmi/ahmdsyhmi.github.io"
 
+# Global social preview image (1200x630). Commit this file and keep absolute URL.
+og_image: "https://ahmdsyhmi.github.io/assets/preview.jpg"
+
+# Optional favicon/logo (small square)
+logo: "https://ahmdsyhmi.github.io/assets/favicon.png"
+
+# =========================
 # Author Settings
+# =========================
 author:
   name: "Ahmad Syahmi"
-  avatar: assets/images/image.jpg
+  avatar: /assets/images/image.jpg
   bio: "I build campaigns that automate, educate, and convert. From digital events to AI workflows, I turn marketing into momentum."
   location: "Malaysia"
   email: "syahmi2695@email.com"
@@ -30,36 +42,59 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/syahmi26"
 
-# Navigation
+# =========================
+# Navigation / UX
+# =========================
 breadcrumbs: true
 words_per_minute: 200
 enable_copy_code_button: true
 
+# =========================
 # SEO
+# =========================
 google_site_verification: ""
 bing_site_verification: ""
 
-# Social
 social:
   type: "Person"
   name: "Ahmad Syahmi"
   links:
     - "https://github.com/ahmdsyhmi"
-    - "https://linkedin.com/in/yourusername"
+    - "https://linkedin.com/in/syahmi26"
 
+twitter:
+  username: ""   # add if you have one (no @)
+
+# =========================
 # Analytics
+# =========================
 analytics:
   provider: false
 
+# =========================
 # Plugins
+# =========================
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-include-cache
-  
+  - jekyll-seo-tag
+
+# =========================
+# Include paths
+# =========================
 include:
   - .htaccess
   - _pages
 
-  # rebuild trigger
+# =========================
+# Defaults (sets OG image + SEO for all pages)
+# =========================
+defaults:
+  - scope:
+      path: ""          # all files
+    values:
+      og_image: "/assets/preview.jpg"
+      header:
+        og_image: "/assets/preview.jpg"
