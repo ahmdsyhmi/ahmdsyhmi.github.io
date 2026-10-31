@@ -22,7 +22,7 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
     <li>Achieved 31.2% growth in claims submissions across Greater Asia during FY26, reaching 8,376 submissions in Q3</li>
     <li>Planned and executed regional promotions through email marketing, promotional splash pages, and digital campaigns</li>
     <li>Developed promotional content and creative assets aligned with AMD, Microsoft, and NVIDIA alliance branding</li>
-    <li>Managed HP marketing communications across APJ and EMEA, adapting messaging and materials to regional guidelines and market requirements</li>
+    <li>Managed HP marketing communications across APJ and EMEA, ensuring regional brand and messaging alignment</li>
     <li>Monitored campaign performance, tracked KPIs, and identified opportunities for optimisation</li>
   </ul>
 
