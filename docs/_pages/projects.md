@@ -12,7 +12,20 @@ A curated showcase of marketing, branding, and automation initiatives that I’v
 
 ## 🎯 Campaigns & Automation
 <div class="cards">
-
+<div class="card">
+  <h3>🌐 HP Curiocity – Regional Digital Marketing & Portal Adoption</h3>
+  <p>Led regional digital marketing initiatives for HP Curiocity, managing campaign planning, content development, execution, and performance tracking across APJ and EMEA. Focused on driving portal adoption, increasing sales representative engagement, and supporting regional business objectives.</p>
+  <ul>
+    <li>Increased APJ portal registrations by 44% quarter-on-quarter</li>
+    <li>Grew active users from 619 to 686, achieving 11% growth</li>
+    <li>Drove portal adoption across 8 out of 9 APJ countries</li>
+    <li>Managed regional digital campaigns across email, web, and event channels</li>
+    <li>Developed campaign messaging, marketing content, and creative assets</li>
+    <li>Coordinated with cross-functional teams, partners, and stakeholders across APJ and EMEA</li>
+    <li>Monitored campaign performance, tracked KPIs, and identified opportunities for optimisation</li>
+  </ul>
+</div>
+  
 <div class="card">
   <h3>🔧 Digital Campaign Automation & Lead Generation</h3>
   <p>Integrated AI tools (ChatGPT, Ubersuggest, Ahrefs) into campaign workflows to streamline strategy, content creation, and performance tracking.</p>
